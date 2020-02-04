@@ -1,0 +1,24 @@
+*{
+  padding: 0;  
+  margin:0;
+}
+body{
+    background-image: url("https://bit.ly/2OqM4Pz");
+    /* background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; */
+}
+.menu{
+    background-color: rgb(3, 95, 3);
+    text-align: center;
+}
+.menu ul{
+    display:inline-flex ;
+    list-style-type: none;
+    color: #ffffff;
+}
+.menu ul li{
+    width:120px;
+    margin: 15px;
+    padding:15px;
+}
